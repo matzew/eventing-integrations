@@ -11,7 +11,7 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>connector-aws-sns-sink</artifactId>
+  <artifactId>aws-sns-sink</artifactId>
   <name>Knative Connectors :: aws-sns Sink</name>
 
   <dependencies>
